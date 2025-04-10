@@ -30,7 +30,7 @@ Simple, addictive, and cleanly built with Python and Pygame.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/0shreyas0/pygame-2048.git
+git clone https://github.com/0shreyas0/pygame-2048.git #modify for specific drive and folder
 cd pygame-2048
 python main.py
 ```
