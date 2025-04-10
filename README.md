@@ -1,2 +1,46 @@
-# pygame-2048
-This is a Python implementation of the classic 2048 game built using Pygame. Slide and merge tiles to reach the legendary 2048 tile (or further!). Smooth animations, intuitive controls (WASD/arrow keys), and a clean UI make this version simple and fun to play.
+# 2048 in Pygame
+
+A fully functional clone of the classic 2048 game built using Python and Pygame.
+
+![image](https://github.com/user-attachments/assets/ab143947-edf7-4424-b2a3-a05387598540)
+
+## 🎮 Gameplay
+
+Slide tiles on a 4x4 grid to combine matching numbers and reach 2048 or more!  
+Simple, addictive, and cleanly built with Python and Pygame.
+
+## 🛠 Features
+
+- Smooth animations
+- Accurate tile merging logic
+- Game over detection
+- Keyboard support (WASD / Arrow keys)
+
+## ⌨️ Controls
+
+| Key       | Action     |
+|-----------|------------|
+| ⬅️ / `A`  | Move Left  |
+| ➡️ / `D`  | Move Right |
+| ⬆️ / `W`  | Move Up    |
+| ⬇️ / `S`  | Move Down  |
+
+## 📦 Installation
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/yourusername/2048-pygame.git
+cd 2048-pygame
+```
+
+## 📦 Requirements
+
+- Python 3.7+
+- `pygame` library
+
+Install dependencies with:
+
+```bash
+pip install pygame
+```
